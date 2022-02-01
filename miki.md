@@ -27,5 +27,27 @@ Company: Babiel GmbH
     - Sportgruppe
 
 4. Zeichnet sich das Unternehmen durch eine bestimmte Firmenpolitik aus?
+Firmenpolitik ist nicht explizit in der Anzeige geschrieben. 
 
 5. Was bedeuted der Begriff "Gleitzeit"?
+
+# Teil 3
+Babiel GmbH
+1. Score: 4.4
+2. Weiterenpfehlungsrate: 96%
+3. Gehalt für Frontend-Entwickler:in: 42.600 - 56.500 Euro
+4. Firmenkultur
+    - Kundenorientiert handeln: 92%
+    - Kollegen helfen: 85%
+    - Auf zufriedene Mitarbeiter achten
+    - Langfristigen Erfolg anstreben
+    - Verantwortung von Mitarbeitern einfordern: 69%
+    - Überlegt handeln: 69%
+    - Sich kollegial verhalten: 69%
+    - Spaß und Freunde haben: 69%
+
+# Teil 4
+
+
+# Link zum Miroboard
+https://miro.com/welcomeonboard/dUYzc2tyMHhJb0NLWlVsdXRyM0wxYTFHeFY4TkJRMVc3QkdwZHpoWHNsQWFXRVpMRHgwYWVVS3VpdXRCbU5xM3wzNDU4NzY0NTE0NDIxMjkzNjQx?invite_link_id=100289688753 
